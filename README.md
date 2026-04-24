@@ -73,7 +73,7 @@ http://{yourhost}/{projetname}/web/wp
 
 Pour une installation avec nom de domaine, l’accès au site se fait via :
 ```bash
-http://{yourdomain}/web/wp
+http://{yourdomain}
 ```
 
 
