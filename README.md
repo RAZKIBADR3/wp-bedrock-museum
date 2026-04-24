@@ -62,6 +62,10 @@ Dans votre fichier `php.ini`, assurez-vous que la ligne suivante n’est pas com
 extension=intl
 ```
 
+### 8. Activer le thème
+
+Dans l’admin WordPress, allez dans **Apparence > Thèmes** et activez **museum-theme** pour accéder aux blocs Gutenberg.
+
 ---
 
 ## 🧱 Fonctionnalités
@@ -84,6 +88,16 @@ extension=intl
 * JavaScript gère les interactions frontend (bouton « Voir plus »)
 
 ---
+## 🖼️ Images
+
+<img width="1919" height="879" alt="Screenshot 2026-04-24 031351" src="https://github.com/user-attachments/assets/df0ea4a6-8b26-451e-8f24-4e2f2832db21" />
+<img width="1919" height="877" alt="Screenshot 2026-04-24 031444" src="https://github.com/user-attachments/assets/72b4b3c0-742c-44f9-9e15-5dbc5c2874d2" />
+<img width="1261" height="872" alt="Screenshot 2026-04-24 031512" src="https://github.com/user-attachments/assets/a3392790-5f82-43be-9554-596060a47ecc" />
+<img width="455" height="866" alt="Screenshot 2026-04-24 031539" src="https://github.com/user-attachments/assets/6e037ecd-f6d9-46c1-b9ce-6f1000cc8863" />
+<img width="458" height="913" alt="Screenshot 2026-04-24 031610" src="https://github.com/user-attachments/assets/2e774447-03ee-4494-b009-dd6a844f178d" />
+
+
+
 
 ## 👨‍💻 Auteur
 
