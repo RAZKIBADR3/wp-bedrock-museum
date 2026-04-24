@@ -69,7 +69,7 @@ extension=intl
 Dans l’admin WordPress, allez dans **Apparence > Thèmes** et activez **museum-theme** pour accéder aux blocs Gutenberg.
 
 
-## 9. Ajouter des contenus
+### 9. Ajouter des contenus
 
 Ajouter des contenus dans le post type personnalisé **Agenda** pour afficher les données sur le site.
 
