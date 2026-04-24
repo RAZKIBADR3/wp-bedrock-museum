@@ -65,11 +65,17 @@ extension=intl
 
 ## 8. Accès au site
 
-Pour une installation par défaut, l’accès au site se fait via :
+Pour une installation locale (localhost), l’accès au site se fait via :
 
 ```bash
-http://{yourhost}/web/wp
+http://{yourhost}/{projetname}/web/wp
 ```
+
+Pour une installation avec nom de domaine, l’accès au site se fait via :
+```bash
+http://{yourdomain}/web/wp
+```
+
 
 ### 9. Activer le thème
 
