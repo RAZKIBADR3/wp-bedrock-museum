@@ -22,12 +22,10 @@ cd web/app/themes/museum-theme
 npm install
 ```
 
-### 4. Lancer le build (mode développement)
+### 4. Créer la base de données
 
-```bash
-cd web/app/themes/museum-theme
-npm start
-```
+Créer une base de données vide.
+
 
 ### 5. Configurer l’environnement
 
@@ -43,13 +41,17 @@ WP_HOME=http://museum.local
 WP_SITEURL=${WP_HOME}/wp
 ```
 
-### 6. Créer la base de données
-
-Créer une base de données vide avec le même nom que `DB_NAME`.
-
-### 7. Lancer le projet
+### 6. Lancer le projet
 
 Utiliser **XAMPP**.
+
+
+### 7. Lancer le build (mode développement)
+
+```bash
+cd web/app/themes/museum-theme
+npm start
+```
 
 ---
 
