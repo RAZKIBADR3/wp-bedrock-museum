@@ -63,21 +63,8 @@ Dans votre fichier `php.ini`, assurez-vous que la ligne suivante n’est pas com
 extension=intl
 ```
 
-## 8. Accès au site
 
-Pour une installation locale (localhost), l’accès au site se fait via :
-
-```bash
-http://{yourhost}/{projetname}/web/wp
-```
-
-Pour une installation avec nom de domaine, l’accès au site se fait via :
-```bash
-http://{yourdomain}
-```
-
-
-### 9. Activer le thème
+### 8. Activer le thème
 
 Dans l’admin WordPress, allez dans **Apparence > Thèmes** et activez **museum-theme** pour accéder aux blocs Gutenberg.
 
