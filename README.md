@@ -87,7 +87,7 @@ Ajouter des contenus dans le post type personnalisé **Agenda** pour afficher le
 * Association des champs ACF au Custom Post Type
 * Bloc **Gutenberg** personnalisé (Agenda)
 * Rendu dynamique avec PHP (aucun contenu codé en dur)
-* Fonctionnalité **« Voir plus »** (affichage des 4 premiers éléments)
+* Fonctionnalité **« Tous les élémenets »** (affichage des 4 premiers éléments)
 * Design **responsive** (mobile / tablette / desktop)
 
 ---
@@ -96,7 +96,7 @@ Ajouter des contenus dans le post type personnalisé **Agenda** pour afficher le
 
 * Les champs ACF sont enregistrés via du code avec **acf-builder**
 * Le bloc Gutenberg utilise un fichier `block.json` natif
-* JavaScript gère les interactions frontend (bouton « Voir plus »)
+* JavaScript gère les interactions frontend (bouton « Tous les élémenets »)
 
 ---
 ## 🖼️ Images
