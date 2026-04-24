@@ -32,13 +32,12 @@ Créer une base de données vide.
 Copier `.env.example` vers `.env`, puis mettre à jour :
 
 ```env
-DB_NAME=database_name
-DB_USER=root
-DB_PASSWORD=
-DB_HOST=localhost
+DB_NAME='database_name'
+DB_USER='database_user'
+DB_PASSWORD='database_password'
 
-WP_HOME=http://museum.local
-WP_SITEURL=${WP_HOME}/wp
+WP_HOME='http://example.com'
+WP_SITEURL="${WP_HOME}/wp"
 ```
 
 ### 6. Lancer le projet
