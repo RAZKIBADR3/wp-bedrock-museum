@@ -25,6 +25,7 @@ npm install
 ### 4. Lancer le build (mode développement)
 
 ```bash
+cd web/app/themes/museum-theme
 npm start
 ```
 
