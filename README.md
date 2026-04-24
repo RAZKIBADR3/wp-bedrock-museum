@@ -1,4 +1,4 @@
-# Documentation du projet WordPress Musée
+# Documentation du projet Musée (WordPress + Bedrock)
 
 ## 🚀 Instructions d’installation
 
