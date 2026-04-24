@@ -63,7 +63,13 @@ Dans votre fichier `php.ini`, assurez-vous que la ligne suivante n’est pas com
 extension=intl
 ```
 
-### 8. Activer le thème
+## 8. Accès au site
+
+Pour une installation par défaut, l’accès au site se fait via :
+
+http://{yourhost}/web/wp
+
+### 9. Activer le thème
 
 Dans l’admin WordPress, allez dans **Apparence > Thèmes** et activez **museum-theme** pour accéder aux blocs Gutenberg.
 
