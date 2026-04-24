@@ -67,7 +67,9 @@ extension=intl
 
 Pour une installation par défaut, l’accès au site se fait via :
 
+```bash
 http://{yourhost}/web/wp
+```
 
 ### 9. Activer le thème
 
