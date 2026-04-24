@@ -63,13 +63,17 @@ Dans votre fichier `php.ini`, assurez-vous que la ligne suivante n’est pas com
 extension=intl
 ```
 
-
 ### 8. Activer le thème
 
 Dans l’admin WordPress, allez dans **Apparence > Thèmes** et activez **museum-theme** pour accéder aux blocs Gutenberg.
 
 
-### 9. Ajouter des contenus
+### 9. Activer le plugin ACF
+
+Activer le plugin **Advanced Custom Fields (ACF)** depuis l’interface WordPress (**plugins > Installed Plugins**).
+
+
+### 10. Ajouter des contenus
 
 Ajouter des contenus dans le post type personnalisé **Agenda** pour afficher les données sur le site.
 
