@@ -5,7 +5,7 @@
 ### 1. Cloner le projet
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/RAZKIBADR3/wp-bedrock-museum.git
 cd project-name
 ```
 
